@@ -1,0 +1,5 @@
+# 将以下 4 张建模图放入此目录即可在技术页显示：
+# - camp-degradation-curve.png   （CAMP 降解曲线，不同痤疮严重程度）
+# - carbon-footprint-comparison.png （碳足迹对比）
+# - cycle-length-scan.png        （周期长度扫描三联图）
+# - multicycle-control.png       （多周期闭环 vs 开环六联图）
